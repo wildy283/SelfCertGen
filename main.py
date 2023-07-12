@@ -1,10 +1,10 @@
 # ----------------------------------------------------------------------------------
 #  Name         : SelfCertGen
 #  Desc         : Self Certificate Generator
-#  Author       : Wildy Sheverando [ Wildy283 ]
+#  Author       : Wildy Sheverando [ Wildy281 ]
 #  Date         : 03-03-2023
 #  License      : GNU General Public License V3
-#  License Link : https://raw.githubusercontent.com/wildy283/License/main/gplv3.txt
+#  License Link : https://raw.githubusercontent.com/wildy281/License/main/gplv3.txt
 # ----------------------------------------------------------------------------------
 
 # >> Import Requirement
